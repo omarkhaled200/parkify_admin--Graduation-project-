@@ -1,0 +1,2 @@
+C:/Users/Ts/Documents/myproject_flutter/parkify_admin/android/app/.cxx/Debug/464kqw15/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Ts/Documents/myproject_flutter/parkify_admin/android/app/.cxx/Debug/464kqw15/armeabi-v7a/CMakeFiles/rebuild_cache.dir
